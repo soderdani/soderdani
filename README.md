@@ -18,4 +18,19 @@ In my toolkit, you'll find:
 - [LinkedIn](https://www.linkedin.com/in/daniel-palmqvist-soderman-18978414b/)
 - [Email](mailto:daniel.soderman1997@gmail.com)
 
-Peace ✌️
+
+## 💻 Tech Stack:
+
+
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">
+ 
+
+
+![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=soderdani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
