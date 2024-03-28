@@ -6,7 +6,7 @@ I'm Daniel, a Machine Learning student diving into sklearn, Python, and more. Wh
 
 ## 🛠️ Tech Toolbox
 
-In my ML toolkit, you'll find:
+In my toolkit, you'll find:
 
 - Languages: Python, JavaScript, HTML, CSS
 - Libraries: PyTorch, Scikit-Learn, Pandas, Numpy 
