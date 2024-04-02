@@ -26,10 +26,6 @@ In my toolkit, you'll find:
  
 
 
-![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=soderdani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-
-
 
 
 
