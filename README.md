@@ -14,7 +14,7 @@ In my toolkit, you'll find:
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
 
 ## 💬 Let's Connect
-- [dott.bio](dott.bio/daniel)
+- [dott.bio](https://dott.bio/daniel)
 - [LinkedIn](https://www.linkedin.com/in/daniel-palmqvist-soderman-18978414b/)
 - [Email](mailto:daniel.soderman1997@gmail.com)
 
