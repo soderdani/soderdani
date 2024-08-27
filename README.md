@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I'm Daniel, a Machine Learning student diving into sklearn, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
+I'm Daniel, a Machine Learning student diving into sklearn, PyTorch, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
 
 
 ## In Production
@@ -14,7 +14,7 @@ I'm Daniel, a Machine Learning student diving into sklearn, Python, and more. Wh
 In my toolkit, you'll find:
 
 - Languages: Python, JavaScript, HTML, CSS
-- Libraries: PyTorch, Scikit-Learn, Pandas, Numpy 
+- Libraries: PyTorch, Scikit-Learn, Pandas, Numpy, MatPlotLib, Seaborn
 - Tools: VS Code, Jupyter Notebook, Git/GitHub
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
 
