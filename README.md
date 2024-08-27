@@ -4,6 +4,11 @@
 I'm Daniel, a Machine Learning student diving into sklearn, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
 
 
+## In Production
+
+- [dott.bio](https://get.dott.bio/)
+- [Rested.](https://chromewebstore.google.com/detail/rested/ppggpbbppdfibojdjognohooccbblinn)
+
 ## 🛠️ Tech Toolbox
 
 In my toolkit, you'll find:
