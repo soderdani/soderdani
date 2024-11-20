@@ -13,7 +13,7 @@ I'm Daniel, a Machine Learning student diving into sklearn, PyTorch, Python, and
 
 In my toolkit, you'll find:
 
-- Languages: Python, JavaScript, HTML, CSS, SQL
+- Languages: Python, SQL, JavaScript, HTML, CSS
 - Libraries: PyTorch, Scikit-Learn, Pandas, Numpy, MatPlotLib, Seaborn
 - Tools: VS Code, Jupyter Notebook, Git/GitHub
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
