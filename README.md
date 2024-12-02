@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I'm Daniel, a Machine Learning student diving into sklearn, PyTorch, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
+I'm Daniel, a Machine Learning student diving into PyTorch, sklearn, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
 
 
 ## In Production
@@ -14,7 +14,7 @@ I'm Daniel, a Machine Learning student diving into sklearn, PyTorch, Python, and
 In my toolkit, you'll find:
 
 - Languages: Python, SQL, JavaScript, HTML, CSS
-- Libraries: PyTorch, Scikit-Learn, Pandas, Numpy, MatPlotLib, Seaborn
+- Libraries: PyTorch, Scikit-Learn, Pandas, Flask, Django, Numpy, MatPlotLib, Seaborn, React and many more.
 - Tools: VS Code, Jupyter Notebook, Git/GitHub
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
 
@@ -29,9 +29,3 @@ In my toolkit, you'll find:
 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">
  
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
