@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I'm Daniel, a Machine Learning student diving into PyTorch, sklearn, Python, and more. When not exploring AI, I tinker with web development and craft Chrome Extensions for fun.
+I'm Daniel, a Machine Learning student diving into PyTorch, Sklearn, Python, and more. Big ML interests involve Reinforcement Learning and RAG models. 
 
 
 ## In Production
