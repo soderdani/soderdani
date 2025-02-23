@@ -15,7 +15,7 @@ In my toolkit, you'll find:
 
 - Languages: Python, SQL, JavaScript, HTML, CSS
 - Libraries: PyTorch, Scikit-Learn, Pandas, Flask, Django, Numpy, MatPlotLib, Seaborn, React and many more.
-- Tools: VS Code, Jupyter Notebook, Git/GitHub
+- Tools: VS Code, Jupyter Notebook, Git/GitHub, Docker
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
 
 ## 💬 Let's Connect
