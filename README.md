@@ -7,7 +7,7 @@ Beyond ML, I run [dott.bio](https://get.dott.bio/), a SaaS platform helping crea
 
 ## 🔍 Current Focus
 - **Building a RAG (Retrieval-Augmented Generation) system for business owners** to enhance AI-driven information retrieval and automation, which includes:
-  - **Building and optimizing LangGraph infrastructure** to structure AI workflows effectively.
+  - **Building and optimizing LangGraph infrastructure** to structure workflows effectively.
   - **Developing scalable data pipelines** to efficiently process and store information.
   - **Implementing prompt engineering** to refine AI-generated responses and improve accuracy.
   - **Designing APIs** for seamless integration with business applications and services.
