@@ -1,7 +1,7 @@
 
 # Hi, I'm Daniel! 👋
 
-I'm a AI Engineer, data enthusiast, and entrepreneur passionate about leveraging AI to build smart, scalable solutions. My work focuses on deep learning, retrieval-augmented generation (RAG), and data pipelines, where I explore ways to optimize AI-driven applications for real-world use cases.
+I'm an AI Engineer and entrepreneur passionate about building smart, scalable solutions with AI. My work centers on AI agents, retrieval-augmented generation (RAG), and generative AI, where I explore how to optimize intelligent systems for real-world impact.
 
 Beyond ML, I run [dott.bio](https://get.dott.bio/), a SaaS platform helping creators and businesses optimize their online presence.
 
