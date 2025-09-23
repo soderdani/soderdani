@@ -22,7 +22,7 @@ Beyond ML, I run [dott.bio](https://get.dott.bio/), a SaaS platform helping crea
 In my toolkit, you'll find:
 
 - Languages: Python, SQL, JavaScript, HTML, CSS
-- Libraries: PyTorch, Scikit-Learn, Pandas, Flask, Django, Numpy, MatPlotLib, Seaborn, React and many more.
+- Libraries: Semantic Kernel, LangChain / LangGraph, PyTorch, Scikit-Learn, Pandas, Flask, Django, Numpy, MatPlotLib, Seaborn, React and many more.
 - Tools: VS Code, Jupyter Notebook, Git/GitHub, Docker
 - Accessories: Figma, Photoshop, Illustrator, Premiere Pro
 
