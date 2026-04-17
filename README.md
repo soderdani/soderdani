@@ -1,4 +1,4 @@
-# Daniel Söderman
+# Daniel Soderman
 
 **AI Engineer @ Sopra Steria** · Stockholm, Sweden
 
