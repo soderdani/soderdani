@@ -1,36 +1,53 @@
+# Daniel Söderman
 
-# Hi, I'm Daniel! 👋
+**AI Engineer @ Sopra Steria** · Stockholm, Sweden
 
-I'm an AI Engineer and entrepreneur passionate about building smart, scalable solutions with AI. My work centers on AI agents, retrieval-augmented generation (RAG), and generative AI, where I explore how to optimize intelligent systems for real-world impact.
+Building agentic systems, RAG pipelines, and fullstack AI products. Currently deep in LangGraph, Microsoft Agent Framework, Azure OpenAI, and multi-agent architectures. From idea to production -- Python on the backend, Next.js on the frontend, Azure everywhere in between.
 
-Beyond ML, I run [dott.bio](https://get.dott.bio/), a SaaS platform helping creators and businesses optimize their online presence.
+---
 
-## 🔍 Current Focus
-- **Building a RAG (Retrieval-Augmented Generation) system for business owners** to enhance AI-driven information retrieval and automation, which includes:
-  - **Building and optimizing LangGraph infrastructure** to structure workflows effectively.
-  - **Developing scalable data pipelines** to efficiently process and store information.
-  - **Implementing prompt engineering** to refine AI-generated responses and improve accuracy.
-  - **Designing APIs** for seamless integration with business applications and services.
+## Stack
 
-## In Production
+**AI / Backend**
+Python · FastAPI · LangGraph · Semantic Kernel · Azure OpenAI · Azure AI Foundry · Azure AI Search · Azure Document Intelligence · RAG · MCP
 
-- [dott.bio](https://get.dott.bio/)
-- [Rested.](https://chromewebstore.google.com/detail/rested/ppggpbbppdfibojdjognohooccbblinn)
+**Frontend**
+Next.js · TypeScript · Tailwind CSS · React
 
-## 🛠️ Tech Stack
+**Infra & Tooling**
+Azure Container Apps · Azure Static Web Apps · Supabase · PostgreSQL · Docker · GitHub Actions · CI/CD
 
-In my toolkit, you'll find:
+---
 
-- Languages: Python, SQL, JavaScript, HTML, CSS
-- Libraries: Semantic Kernel, LangChain / LangGraph, PyTorch, Scikit-Learn, Pandas, Flask, Django, Numpy, MatPlotLib, Seaborn, React and many more.
-- Tools: VS Code, Jupyter Notebook, Git/GitHub, Docker
-- Accessories: Figma, Photoshop, Illustrator, Premiere Pro
+## Projects
 
-## 💬 Let's Connect
-- [dott.bio](https://dott.bio/daniel)
-- [LinkedIn](https://www.linkedin.com/in/daniel-palmqvist-soderman-18978414b/)
-- [Email](mailto:daniel.soderman1997@gmail.com)
+**[Peija](https://peija.se)** — Swish QR-based POS system for small businesses. Dynamic QR checkout, product management, Stripe subscriptions.
 
+**[Lektura.se](https://lektura.se)** — Course platform for businesses to create courses with AI.
 
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">
- 
+**Bizz** — RAG-based Swedish business info assistant built on LangGraph and vector search.
+
+**Emploi** — AI job-matching agent integrating with Arbetsförmedlingen's API, with auto-generated cover letters and skill gap analysis.
+
+---
+
+## Certifications
+
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Applied Skills: Develop generative AI apps with Azure OpenAI and Semantic Kernel
+- Building with the Claude API · Claude Code in Action
+- Introduction to Model Context Protocol
+
+---
+
+## Currently
+
+- Building agentic process automation and multi-agent systems at Sopra Steria
+- Scaling Peija through outreach and SEO
+- Exploring early-stage startup opportunities in the AI space
+
+---
+
+## Connect
+
+[LinkedIn](www.linkedin.com/in/danielpsoderman) · [Email](mailto:daniel.soderman1997@gmail.com) · [Peija](https://peija.se) · [Lektura](https://lektura.se)
